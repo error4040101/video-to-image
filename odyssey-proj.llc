@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'odyssey.mp4',
+  cutSegments: [
+    {
+      start: 3.149096,
+      end: 20.642676,
+      name: '',
+    },
+  ],
+}
